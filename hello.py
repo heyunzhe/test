@@ -1,2 +1,3 @@
 #!/bin/bash
-ench "hello thon"
+ench "hello python"
+suibianxieyidian
