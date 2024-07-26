@@ -1,1 +1,2 @@
-suibianxieyidian
+#!/bin/bash
+ench "hello python"
