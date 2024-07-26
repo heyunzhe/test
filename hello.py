@@ -1,2 +1,2 @@
 #!/bin/bash
-ench "hello py"
+ench "hello py!"
